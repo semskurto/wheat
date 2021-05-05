@@ -72,7 +72,13 @@ sağlayabilir.
 ---  
 
 #### EK BİLGİLER  
+##### Çalışma Adımları:  
+
 - [x] Görüntü Çoğaltma  
-- [x] Farklı Normalizasyon Teknikleriyle Model Eğitimi  
-- [x] Görüntü İşleme  
-- [x] Analitik Yaklaşım
+>  Crop, Rotate, Flip, Mixup, Mosaic, Hue ve Gaussian Noise
+- [x] Makine Öğrenim Modelinin Belirlenmesi
+- [x] Normalizasyon Teknikleri ile Model Eğitimi  
+- [x] Görüntü İyileştirme
+- [x] Analitik Yaklaşım   
+  
+  
