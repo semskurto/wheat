@@ -1,5 +1,5 @@
-###  Buğday Başaklarının Tespit Edilmesi ve Diğer Nitelikli Verilerin Çıkarımı 🌾 (Wheat Detection and Other Extraction of Qualified Data)
----  
+#  Buğday Başaklarının Tespit Edilmesi ve Diğer Nitelikli Verilerin Çıkarımı 🌾 (Wheat Detection and Other Extraction of Qualified Data)
+*** 
   
   
 ##### ABSTRACT  
@@ -8,7 +8,6 @@ optical images in order to provide a healthy development process by monitoring w
 his purpose it is aimed to obtain basic health data from wheat optic images by using image 
 processing and machine learning methods. These data will be beneficial in creating solutions for 
 the losses in the production process of the wheat producer and obtaining quality products. 
-  
   
 ##### ÖZET  
   Bu çalışmamızda buğday başaklarının takibini yapılarak sağlıklı gelişim süreci sağlanması için 
@@ -45,7 +44,7 @@ sonuçlanacaktır. Bu nedenle üreticinin karar aşamasında bilgilendirilmesi b
 öğrenim modellerinin katkısıyla olumlu faydalar sağlanabilir.  
   
   
-##### ÇALIŞMANIN AMAÇ ve HEDEFLERİ  
+#### ÇALIŞMANIN AMAÇ ve HEDEFLERİ  
   
   Mevcut durumda proje aşamalarında kullanılacak yöntemlerin araştırılması sürdürülmektedir. 
 Çalışmamızı temellendirmiş olduğumuz makine öğrenimi modeli optik görüntülerden sadece
@@ -59,7 +58,7 @@ Ayrıca obje tespiti makine öğrenimi modelimiz ile görüntülerden meta veri 
 sonrasında gerektiği durumda farklı yaklaşımlarla meta veriler hakkında temel çıkarımlar elde 
 edilmesi planlanmaktadır.  
 
-##### SONUÇ ve ÖNERİLER  
+#### SONUÇ ve ÖNERİLER  
   
    Mevcut durumda elde ettiğimiz makine öğrenimi modelinde 
 mAP değerleri genel olarak 0.5’ten büyük olduğu dolayısıyla da başarılı bir model olduğu
