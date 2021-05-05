@@ -87,6 +87,7 @@ sağlayabilir.
 > > Çeşitli yaklaşımlar önerilerek görüntülerden temel bilgi çıkarımı yapıldı.
   
 ***
-#### EK BAĞLANTILAR  
-[Jupyter Notebook Workspace for Preliminary Report](https://www.kaggle.com/shemskurtoglu/wheat-summary-report?scriptVersionId=60239079).
-[Jupyter Notebook Workspace for Train(+includes model weights)](https://www.kaggle.com/shemskurtoglu/wheat-tpu-tfkeras-00?scriptVersionId=52800232).
+#### ÇALIŞMA EK BAĞLANTILARI(ADDITIONAL LINKS OF THE STUDY)  
+1. [Jupyter Notebook Workspace for Train(+includes model weights)](https://www.kaggle.com/shemskurtoglu/wheat-tpu-tfkeras-00?scriptVersionId=52800232).  
+2. [Jupyter Notebook Workspace for Preliminary Report](https://www.kaggle.com/shemskurtoglu/wheat-summary-report?scriptVersionId=60239079).  
+
