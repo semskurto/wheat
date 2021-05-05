@@ -72,7 +72,7 @@ sağlayabilir.
 ---  
 
 #### EK BİLGİLER  
--[X] Görüntü Çoğaltma  
--[X] Farklı Normalizasyon Teknikleriyle Model Eğitimi
--[X] Görüntü İşleme  
--[X] Analitik Yaklaşım
+- [x] Görüntü Çoğaltma  
+- [x] Farklı Normalizasyon Teknikleriyle Model Eğitimi  
+- [x] Görüntü İşleme  
+- [x] Analitik Yaklaşım
