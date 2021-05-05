@@ -2,7 +2,7 @@
 ---  
   
   
-### ABSTRACT  
+### ABSTRACT  ###
   
 In this study, it is aimed to extract spike density, maturity and basic health information from 
 optical images in order to provide a healthy development process by monitoring wheat ears. Fort 
