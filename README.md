@@ -85,4 +85,6 @@ sağlayabilir.
 - [x] Analitik Yaklaşım   
 > > Çeşitli yaklaşımlar önerilerek görüntülerden temel bilgi çıkarımı yapıldı.
   
-  
+##### General Workflow:
+![Workflow](https://user-images.githubusercontent.com/31928447/117125711-91f51f80-ada2-11eb-8728-44965850d6a6.png)
+
