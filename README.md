@@ -75,10 +75,14 @@ sağlayabilir.
 ##### Çalışma Adımları:  
 
 - [x] Görüntü Çoğaltma  
->  Crop, Rotate, Flip, Mixup, Mosaic, Hue ve Gaussian Noise
+> >  Crop, Rotate, Flip, Mixup, Mosaic, Hue ve Gaussian Noise
 - [x] Makine Öğrenim Modelinin Belirlenmesi
+> > EfficientDet-D4
 - [x] Normalizasyon Teknikleri ile Model Eğitimi  
-- [x] Görüntü İyileştirme
+> > Çeşitli normalizasyon teknikleri karşılaştırıldı ve nihayetinde ardışık normalizasyon ile EfficientDet-D4 eğitildi.
+- [x] Görüntü İyileştirme  
+> > Chale histogram eşitlemesi yapılarak görüntü optimize edildi.
 - [x] Analitik Yaklaşım   
+> > Çeşitli yaklaşımlar önerilerek görüntülerden temel bilgi çıkarımı yapıldı.
   
   
