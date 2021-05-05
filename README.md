@@ -18,7 +18,7 @@ fotoğraflarından temel sağlık verileri elde edilmesi amaçlanmaktadır. Bu v
 edilmesi açısından fayda sağlayacaktır.  
 
   
-#### GİRİŞ  
+#### 1. GİRİŞ  
   
   Buğday dünyada en çok üretilen ve pek çok ülkenin beslenme, ticaret ve ekim nöbeti
 sistemlerinde vazgeçilmez bir kültür bitkisidir. Özellikle insan beslenmesinde alternatifsiz bir
@@ -44,7 +44,7 @@ sonuçlanacaktır. Bu nedenle üreticinin karar aşamasında bilgilendirilmesi b
 öğrenim modellerinin katkısıyla olumlu faydalar sağlanabilir.  
   
   
-#### ÇALIŞMANIN AMAÇ ve HEDEFLERİ  
+#### 2. ÇALIŞMANIN AMAÇ ve HEDEFLERİ  
   
   Mevcut durumda proje aşamalarında kullanılacak yöntemlerin araştırılması sürdürülmektedir. 
 Çalışmamızı temellendirmiş olduğumuz makine öğrenimi modeli optik görüntülerden sadece
@@ -58,7 +58,7 @@ Ayrıca obje tespiti makine öğrenimi modelimiz ile görüntülerden meta veri 
 sonrasında gerektiği durumda farklı yaklaşımlarla meta veriler hakkında temel çıkarımlar elde 
 edilmesi planlanmaktadır.  
 
-#### SONUÇ ve ÖNERİLER  
+#### 3. SONUÇ ve ÖNERİLER  
   
    Mevcut durumda elde ettiğimiz makine öğrenimi modelinde 
 mAP değerleri genel olarak 0.5’ten büyük olduğu dolayısıyla da başarılı bir model olduğu
@@ -68,3 +68,11 @@ sonuçların geliştirilmesi çalışmanın bütününe kaynak sağladığı iç
 sonuçların iyileştirilmesi için ek çalışmalar ile model eğitimi tekrarlanabilir. Elde edilen çıktılar 
 doğrultusunda analitik yaklaşımlar ile buğday bitkisinin temel sağlık bilgileri kullanıcıya fayda 
 sağlayabilir.
+  
+---  
+
+#### EK BİLGİLER  
+-[X] Görüntü Çoğaltma  
+-[X] Farklı Normalizasyon Teknikleriyle Model Eğitimi
+-[X] Görüntü İşleme  
+-[X] Analitik Yaklaşım
