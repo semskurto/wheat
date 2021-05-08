@@ -1,8 +1,7 @@
 #  Buğday Başaklarının Tespit Edilmesi ve Diğer Nitelikli Verilerin Çıkarımı 🌾 (Wheat Detection and Other Extraction of Qualified Data)
 *** 
   
-  
-![Workflow](https://user-images.githubusercontent.com/31928447/117125711-91f51f80-ada2-11eb-8728-44965850d6a6.png)  
+![Workflow](https://user-images.githubusercontent.com/31928447/117530943-9c085f80-afe8-11eb-846c-af664f6b72ec.png)
 ##### ABSTRACT  
   In this study, it is aimed to extract spike density, maturity and basic health information from 
 optical images in order to provide a healthy development process by monitoring wheat ears. Fort 
