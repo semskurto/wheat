@@ -46,17 +46,7 @@ sonuçlanacaktır. Bu nedenle üreticinin karar aşamasında bilgilendirilmesi b
   
 #### 2. ÇALIŞMANIN AMAÇ ve HEDEFLERİ  
   
-  Mevcut durumda proje aşamalarında kullanılacak yöntemlerin araştırılması sürdürülmektedir. 
-Çalışmamızı temellendirmiş olduğumuz makine öğrenimi modeli optik görüntülerden sadece
-buğday başakların tespitini sağlayacak olup ilerleyen aşamalarda elde edilen bu buğday başağı 
-çerçeveleriyle çeşitli veriler elde edilebilir hale gelecektir. Bu nedenle obje tespiti için makine 
-öğrenimi modelin geliştirilme aşaması tüm sonucun temellendirildiği kısım olacak olup modelin 
-kararlı olması tüm sonuca etki edecektir. Hedeflediğimiz ortalama hassasiyet(mAp) değerinin 
-enaz 0.6 olması hedeflenmektedir. Bu süreçte optik görüntülerin işlenmesi ve model mimarisin 
-geliştirilmesiyle eğitim sonuçlarının iyileştirilmesi planlanmaktadır.2
-Ayrıca obje tespiti makine öğrenimi modelimiz ile görüntülerden meta veri elde edilecek
-sonrasında gerektiği durumda farklı yaklaşımlarla meta veriler hakkında temel çıkarımlar elde 
-edilmesi planlanmaktadır.  
+  Mevcut durumda proje aşamalarında kullanılacak yöntemlerin araştırılması sürdürülmektedir. Çalışmamızı temellendirmiş olduğumuz makine öğrenimi modeli optik görüntülerden sadece buğday başakların tespitini sağlayacak olup ilerleyen aşamalarda elde edilen bu buğday başağı çerçeveleriyle çeşitli veriler elde edilebilir hale gelecektir.  Bu nedenle obje tespiti için makine öğrenimi modelin geliştirilme aşaması tüm sonucun temellendirildiği kısım olacak olup modelin kararlı olması tüm sonuca etki edecektir. Aynı zamanda obje tespiti makine öğrenimi modelimiz ile görüntülerden elde edilecek meta veriler analitik yaklaşımlar sonucu faydalı temel çıkarımlar elde edilmesi planlanmaktadır.
 
 #### 3. SONUÇ ve ÖNERİLER  
   
