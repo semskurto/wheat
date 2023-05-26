@@ -1,4 +1,4 @@
-#  Wheat Detection and Other Extraction of Qualified Data 🌾  Buğday Başaklarının Tespit Edilmesi ve Diğer Nitelikli Verilerin Çıkarımı 
+#  Wheat Detection and Other Extraction of Qualified Data 🌾
 *** 
   
 ![Workflow](https://user-images.githubusercontent.com/31928447/117530943-9c085f80-afe8-11eb-846c-af664f6b72ec.png)
